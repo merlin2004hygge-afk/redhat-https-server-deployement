@@ -1,0 +1,13 @@
+redhat-https-server-project/
+├── README.md
+├── .gitignore
+├── diagrams/
+│   ├── redhat-httpd-https-overview.png
+│   └── redhat-httpd-https-overview.svg
+└── screenshots/
+    ├── 01-ec2-instance-overview.jpg
+    ├── 02-ec2-connection-details.jpg
+    └── 03-website-browser-http.jpg
+
+Scope: Red Hat EC2 + Apache HTTPD website deployment. Nginx is intentionally excluded.
+HTTPS is documented as the next milestone, not as completed work.
